@@ -1,0 +1,16 @@
+{
+  "name": "atendesigngroup/legacy_me_layouts",
+  "type": "drupal-module",
+  "description": "Legacy Mercury Editor Layouts",
+  "keywords": ["Drupal"],
+  "homepage": "https://github.com/AtenDesignGroup/legacy_me_layouts",
+  "support": {
+    "issues": "https://github.com/AtenDesignGroup/legacy_me_layouts/issues",
+    "source": "https://github.com/AtenDesignGroup/legacy_me_layouts"
+  },
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/style_options": "1.0.x-dev@dev"
+  }
+}
